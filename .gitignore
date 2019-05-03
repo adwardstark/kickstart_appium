@@ -1,4 +1,8 @@
 .DS_Store
+/Test_Android/.gradle
+/Test_Android/.idea
 /Test_Android/app/build
 /Test_Android/app/libs
 /Test_iOS/build
+/Test_iOS/TestAppiumApp.xcodeproj/xcuserdata
+/Test_iOS/TestAppiumApp.xcodeproj/project.xcworkspace/xcuserdata

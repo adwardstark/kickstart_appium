@@ -13,7 +13,7 @@ class LoginTests(unittest.TestCase):
                 'app': app,
                 'platformName': 'iOS',
                 'platformVersion': '12.2',
-                'deviceName': 'iPhone 8'
+                'deviceName': 'iPhone Xʀ'
             }
         )
     

@@ -4,7 +4,7 @@ This project contains examples for testing Android, iOS applications using the a
 
 #### Pre-requisites
 
-To run these sample tests you need to get the core component on your machine:
+To run these samples you need to install the core components like Android SDK, Xcode( for iOS ) on your machine along with the following tools:
 
 - Appium
   ```bash
@@ -58,7 +58,7 @@ To execute the following tests ( Android/iOS ) switch to the `/Tests` directory 
   ```
 - Android
 
-  Make sure you start the correct emulator which you've specified in the `test_android.py` file before executing the command below. 
+  Make sure to set `ANDROID_HOME` environment variable pointing to the `Android SDK` and then start the emulator which you've specified in the `test_android.py` file before executing the command below.
   ```bash
   pytest test_android.py
   ```
